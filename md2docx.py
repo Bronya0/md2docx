@@ -1,5 +1,6 @@
 """
 通用 Markdown → Word (.docx) 转换工具
+pip3 install python-docx>=1.1.0
 
 用法:
     python md2docx.py input.md                  # 输出为 input.docx
